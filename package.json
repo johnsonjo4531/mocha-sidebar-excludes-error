@@ -1,0 +1,14 @@
+{
+  "name": "mocha-sidebar",
+  "version": "1.0.0",
+  "description": "``` npm i html-metadata ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "html-metadata": "^1.7.0"
+  }
+}
