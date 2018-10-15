@@ -1,5 +1,7 @@
 # Mocha Sidebar Excludes Ignored Error
 
+Error reproduction example for [mocha-sidebar#155](https://github.com/maty21/mocha-sidebar/issues/155).
+
 ## Steps to Reproduce Error From This Repository
 
 1. run `npm install`
